@@ -1,5 +1,5 @@
-# shopingcart
-Project Name: shopingcart: this exercise, integrated a React front end with the back end and learn how to use tools like Strapi, Postman, Express, and node. You’ll use Strapi to create a Database, then use Express and Postman to set up and test the communication between Strapi and the front end.
+# shoppingcart
+Project Name: shoppingcart: this exercise, integrated a React front end with the back end and learn how to use tools like Strapi, Postman, Express, and node. You’ll use Strapi to create a Database, then use Express and Postman to set up and test the communication between Strapi and the front end.
 
 How to Install and Run the Project.
 
